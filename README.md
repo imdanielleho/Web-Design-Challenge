@@ -1,6 +1,6 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-Access as a webpage via https://imdanielleho.github.io/
+Access as a webpage via https://imdanielleho.github.io/Web-Design-Challenge/index.html
 
 ## Background
 
